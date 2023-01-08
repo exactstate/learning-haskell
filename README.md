@@ -11,3 +11,12 @@ To compile and run the challenges, run `test.sh`
 ```sh
 bash test.sh
 ```
+
+## Order
+
+Here's the order in which I attempted these challenges.
+
+1. [Odd Numbers](./challenges/oddNumbers.hs)
+1. [Palindromes](./challenges/palindromes.hs)
+1. [Smallest Integer](./challenges/smallestInteger.hs)
+1. [Nth Smallest Integer](./challenges/nthSmallestInteger.hs)
