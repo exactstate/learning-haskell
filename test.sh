@@ -1,6 +1,9 @@
 for f in ./challenges/*.hs; do
-    filename=$(basename "$f")
     ghc $f
+done
+
+for f in ./challenges/*.hs; do
+    filename=$(basename "$f")
     echo "----- $filename"
     ./challenges/${filename%.*}
 done
