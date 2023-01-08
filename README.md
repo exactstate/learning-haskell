@@ -9,5 +9,5 @@ I'm using ChatGPT to generate coding challenge prompts for the most part.
 To compile and run the challenges, run `test.sh`
 
 ```sh
-./test.sh
+bash test.sh
 ```
